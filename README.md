@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff4b4b;">Samith Madhushan</span></h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from Sri Lanka</h3>
+<h1 align="center" style="color:#ff4b4b; font-size: 3rem; font-weight: bold;">Hi 👋, I'm Samith Madhushan</h1>
+<h3 align="center" style="color:#00d9ff; font-size: 1.8rem;">🚀 A Passionate Frontend Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=ff4b4b&style=flat-square" alt="Profile views" />
@@ -35,7 +35,7 @@
 ---
 
 ### 💻 Languages & Tools
-<p align="center">
+<p align="center" style="background: #222; padding: 10px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mongodb,git,linux" alt="Tech Stack" />
 </p>
 
@@ -53,4 +53,4 @@
 
 ---
 
-<h3 align="center">🔥 Keep Coding & Innovating! 🔥</h3>
+<h3 align="center" style="color:#ff4b4b; font-size: 2rem;">🔥 Keep Coding & Innovating! 🔥</h3>
