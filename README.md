@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Samith Madhushan</h2>
+<h1 align="center">Hi 👋, I'm Samith Madhushan</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 ### 💻 Tech Stack:
-<p align="center">
+<p align="top">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mongodb,git,linux" alt="Tech Stack"/>
 </p>
 
