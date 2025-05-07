@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Samith Madhushan</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2;">Samith Madhushan</span></h1>
+<h3 align="center">🚀 Passionate Frontend Developer from 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat-square" alt="uwasamithmadhushan" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Test**
-- 🌱 I’m currently learning **Java**
-- 💬 Ask me about **Java, React, and Frontend Development**
-- 📫 Reach me at **samithmadhushan23@gmail.com**
-- ⚡ Fun fact: **You can call me "Sami" 😄**
+- 🔭 I’m currently working on **Test Projects**
+- 🌱 I’m currently learning **Java & Spring Boot**
+- 💬 Ask me about **Java, React, Frontend Development**
+- 📫 Reach me at: **samithmadhushan23@gmail.com**
+- ⚡ Fun fact: I love clean UI and coding late at night 🌙
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/samith-madhushan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -36,10 +36,10 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,express,mongodb,mysql,php,dotnet,c,cpp,linux,git,androidstudio,aws,gcp,appwrite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,nodejs,express,mongodb,mysql,php,dotnet,c,cpp,linux,git,androidstudio,aws,gcp,appwrite" />
 </p>
 
 ---
@@ -47,17 +47,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=react&locale=en" alt="Samith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwasamithmadhushan&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=uwasamithmadhushan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uwasamithmadhushan&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🚀 Let's Build Together!
+### 🧠 Always Learning & Building
 
-If you're looking for a frontend enthusiast who loves building clean UIs and learning new things every day, feel free to connect!
+> “Stay hungry, stay foolish.” – *Steve Jobs*
+
+Let's build something awesome together!
 
 ---
