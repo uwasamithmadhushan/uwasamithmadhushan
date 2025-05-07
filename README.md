@@ -1,67 +1,67 @@
-<!-- Banner Section -->
+<h1 align="center">Hi 👋, I'm Samith Madhushan</h1>
+<h3 align="center">A passionate Frontend Developer from 🇱🇰 Sri Lanka</h3>
+
 <p align="center">
-  <img src="assets/e22d4bbf-8efb-445b-abd1-b869b02cd1c9.png" alt="Samith Madhushan Banner" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h2 align="center">Hi there 👋, Welcome!</h2>
+- 🔭 I’m currently working on **Test Projects**
+- 🌱 I’m currently learning **Java**
+- 💬 Ask me about **Java and Frontend Development**
+- 📫 Reach me at **samithmadhushan23@gmail.com**
+- ⚡ Fun fact: **You can call me "Sami" 😄**
 
+---
+
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <em>Turning ideas into reality through technology.</em>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Samith Madhushan**, an undergraduate student at **SLIIT**, deeply passionate about technology, innovation, and using code to make real-world impact. 💻⚙️
-
-I’m the founder of **I ICARE SOLUTION**, a business committed to providing high-quality iPhone and iPhone parts services. I'm enthusiastic about building smart systems, collaborating in open-source, and exploring new tools every day.
-
----
-
-## 🛠 Skills
-
-- 🚀 Full-stack Development  
-- 📱 Mobile & Web App Development  
-- 🧠 Tech Innovation & Entrepreneurship  
-- 🌍 Open Source Collaboration  
-
----
-
-## 💻 Tools & Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <a href="https://linkedin.com/in/samith-madhushan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/samith.madhushan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/samith_madhushan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@slboy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: [samithmadhushan23@gmail.com](mailto:samithmadhushan23@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/samithmadhushan)  
-- 📷 [Instagram](https://instagram.com/samithmadhushan)  
-- 📘 [Facebook](https://facebook.com/samithmadhushan)  
-- ▶️ [YouTube - SL Boy](https://www.youtube.com/c/slboy)
-
----
-
-## ✨ Fun Facts
-
-- 🌱 Currently learning: **Java**
-- 💬 Ask me about: **Java, React, Web Apps**
-- ⚡ Nickname: People call me **Sami**
-
----
-
+<h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" />
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwasamithmadhushan&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwasamithmadhushan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
