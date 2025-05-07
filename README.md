@@ -5,59 +5,63 @@
 
 <h2 align="center">Hi there 👋, Welcome!</h2>
 
----
-
-### 👨‍💻 About Me
-
-Hello!👋 My name is **Samith Madhushan**. I'm an undergraduate student at **SLIIT**, passionate about technology, innovation, and making real-world impacts through code and hardware. 💻📱
-
-I'm the founder of **I ICARE SOLUTION**, a business dedicated to iPhone and iPhone parts services. I'm deeply interested in building smart systems, contributing to open-source, and learning new tools and technologies every day.
-
----
-
-### 🛠 Skills
-
-- Frontend & Backend Development  
-- Mobile & Web App Development  
-- Business & Tech Innovation  
-- Open Source Collaboration  
-
----
-
-### 💻 Tools & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<p align="center">
+  <em>Turning ideas into reality through technology.</em>
 </p>
 
 ---
 
-### 📫 How to Reach Me
+## 👨‍💻 About Me
 
-- 📧 Email: **samithmadhushan23@gmail.com**  
-- 💼 LinkedIn: [Samith Madhushan](https://linkedin.com/in/samithmadhushan)  
-- 📷 Instagram: [@samithmadhushan](https://instagram.com/samithmadhushan)  
-- 📘 Facebook: [Samith Madhushan](https://facebook.com/samithmadhushan)  
-- ▶️ YouTube: [SL Boy](https://www.youtube.com/c/slboy)
+Hello! I'm **Samith Madhushan**, an undergraduate student at **SLIIT**, deeply passionate about technology, innovation, and using code to make real-world impact. 💻⚙️
+
+I’m the founder of **I ICARE SOLUTION**, a business committed to providing high-quality iPhone and iPhone parts services. I'm enthusiastic about building smart systems, collaborating in open-source, and exploring new tools every day.
 
 ---
 
-### ✨ Fun Facts
+## 🛠 Skills
 
-- 🌱 I’m currently learning: **Java**
+- 🚀 Full-stack Development  
+- 📱 Mobile & Web App Development  
+- 🧠 Tech Innovation & Entrepreneurship  
+- 🌍 Open Source Collaboration  
+
+---
+
+## 💻 Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [samithmadhushan23@gmail.com](mailto:samithmadhushan23@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/samithmadhushan)  
+- 📷 [Instagram](https://instagram.com/samithmadhushan)  
+- 📘 [Facebook](https://facebook.com/samithmadhushan)  
+- ▶️ [YouTube - SL Boy](https://www.youtube.com/c/slboy)
+
+---
+
+## ✨ Fun Facts
+
+- 🌱 Currently learning: **Java**
 - 💬 Ask me about: **Java, React, Web Apps**
-- ⚡ Fun Fact: People call me **Sami**
+- ⚡ Nickname: People call me **Sami**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="uwasamithmadhushan" />
+  <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
