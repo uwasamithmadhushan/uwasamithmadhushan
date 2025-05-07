@@ -47,10 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" />
 </p>
 
 ---
@@ -59,8 +59,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<h3 align="center">📈GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=radical" alt="GitHub Streak" />
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwasamithmadhushan&layout=compact&theme=radical" alt="Top Languages" />
