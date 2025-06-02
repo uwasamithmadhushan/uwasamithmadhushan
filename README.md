@@ -8,7 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img src="https://thanhdo.edu.vn/wp-content/uploads/2022/08/dto.png" min-width="300px" max-width="300px" width="230px" align="right">
+<video width="320" height="240" controls>
+    <source src="video.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 - 🔭 I’m currently working on **Test Projects**
 - 🌱 I’m currently learning **Java**
