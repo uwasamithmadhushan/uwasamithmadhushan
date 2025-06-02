@@ -58,10 +58,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uwasamithmadhushan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<h3 align="center">📈GitHub Streak</h3>
+<h3 align="center">📈Top Languages</h3>
 <p align="center">
 
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwasamithmadhushan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwasamithmadhushan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📅 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uwasamithmadhushan&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
