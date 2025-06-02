@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=uwasamithmadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img src="https://thanhdo.edu.vn/wp-content/uploads/2022/08/dto.png" min-width="300px" max-width="200px" width="250px" align="right">
+<img src="https://thanhdo.edu.vn/wp-content/uploads/2022/08/dto.png" min-width="300px" max-width="300px" width="200px" align="right">
 
 - 🔭 I’m currently working on **Test Projects**
 - 🌱 I’m currently learning **Java**
