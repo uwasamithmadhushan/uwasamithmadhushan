@@ -1,3 +1,6 @@
+<img src="https://github.com/uwasamithmadhushan/uwasamithmadhushan/blob/main/background.jpg?raw=true" width="100%" />
+
+
 <h1 align="center">Hi 👋, I'm Samith Madhushan</h1>
 <h3 align="center">A passionate Frontend Developer from 🇱🇰 Sri Lanka</h3>
 
