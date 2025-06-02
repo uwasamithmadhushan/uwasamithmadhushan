@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samith Madhushan</h1>
+
 <h3 align="center">A passionate Frontend Developer from 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
@@ -16,7 +17,7 @@
 - 📫 Reach me at **samithmadhushan23@gmail.com**
 - ⚡ Fun fact: **You can call me "Sami" 😄**
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
