@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/samith.madhushan?igsh=MTZiem0ycWQxcGpyeA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@slboy" target="_blank">
+  <a href="https://www.youtube.com/@slboy7465" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
