@@ -24,10 +24,10 @@
   <a href="https://linkedin.com/in/samith-madhushan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://facebook.com/samith.madhushan](https://web.facebook.com/samith.madushan.754703?mibextid=wwXIfr&_rdc=1&_rdr#)" target="_blank">
+  <a href="[[https://facebook.com/samith.madhushan](https://web.facebook.com/samith.madushan.754703?mibextid=wwXIfr&_rdc=1&_rdr#)](https://www.facebook.com/share/183okFMA9C/?mibextid=wwXIfr)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/samith_madhushan" target="_blank">
+  <a href="[https://instagram.com/samith_madhushan](https://www.instagram.com/samith.madhushan?igsh=MTZiem0ycWQxcGpyeA%3D%3D&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@slboy" target="_blank">
